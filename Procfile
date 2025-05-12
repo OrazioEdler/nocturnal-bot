@@ -1,1 +1,1 @@
-web: python easter_egg_bot.py
+echo "web: python easter_egg_bot.py" > Procfile
